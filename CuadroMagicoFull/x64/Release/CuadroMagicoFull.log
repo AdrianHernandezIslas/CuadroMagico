@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  CuadroMagicoFull.cpp
+CuadroMagicoFull.cpp(66): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+CuadroMagicoFull.cpp(140): warning C4267: 'argumento': conversión de 'size_t' a 'const int'; posible pérdida de datos
+CuadroMagicoFull.cpp(144): warning C4267: 'argumento': conversión de 'size_t' a 'const int'; posible pérdida de datos
+  Generando código
+  All 247 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  CuadroMagicoFull.vcxproj -> C:\Users\Adrian\source\repos\CuadroMagicoFull\x64\Release\CuadroMagicoFull.exe
